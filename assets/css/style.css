@@ -1,0 +1,1497 @@
+/*
+Author       : theme_ocean
+Template Name: Valobasha - One Page Parallax Template
+Version      : 1.0
+*/
+/*=============================================================
+    CSS INDEX
+    =============================
+	01. GENERAL STYLE (body, link color, section-title, preloader btn, overlay, section-padding etc)
+	02. START BOOTSTRAP NAVIGATION OVERRIDES
+	03. START HOME DESIGN
+	04. START ABOUT DESIGN
+	05. START FEATURE DESIGN
+	06. START COUNT DOWN DESIGN
+	07. START SERVICE DESIGN
+	08. START PORTFOLIO DESIGN
+	09. START TEAM DESIGN
+	10. START PRICING DESIGN
+	11. START VIDEO DESIGN
+	12. START TESTIMONIAL DESIGN
+	13. START PARTNER DESIGN
+	14. START BLOG DESIGN
+	15. START CONTACT ADDRESS DESIGN
+	16. START CONTACT DESIGN
+	17. START FOOTER DESIGN
+  =============================================================*/
+/*
+* ----------------------------------------------------------------------------------------
+* 01.GENERAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+    font-weight:300;
+    background:#fff;
+    line-height: 25px;
+    overflow-x: hidden;
+}
+html,
+body { height: 100% }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0px;
+  margin-top: 0px; 
+  color: #252d35;
+  font-weight: 400;
+}
+a {
+text-decoration: none;
+transition: all 0.2s ease 0s;
+}
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+a:focus {
+    outline: none;
+    text-decoration: none;
+}
+p {
+margin: 0;
+padding: 0;
+}
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset {
+    border: 0 none;
+    margin: 0 auto;
+    padding: 0;
+}
+/*START PRELOADER DESIGN*/
+.preloader {
+	background:#fff;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 99999;	
+}
+.loader-wrapper {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #012362;
+    z-index: 9999;
+    color: white;
+    font-size: xx-large;
+    padding-top: 20%;
+    text-align: center;
+}
+.loader {
+    height: 1px;
+    background-color: #fff;
+    position: absolute;
+    z-index: 9999;
+}
+
+.spinner {
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	margin: -25px 0 0 -25px;
+	font-size: 10px;
+	text-indent: -12345px;
+	z-index: 10000;
+}
+
+.double-bounce1, .double-bounce2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #06c6dd;
+    opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.double-bounce2 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bounce {
+  0%, 100% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% { 
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+.no-padding { padding: 0 }
+/*END PRELOADER DESIGN*/
+/*START SECTION TITLE DESIGN*/
+.section-padding {padding: 80px 0;}
+.section-title{margin-bottom:60px;}
+.section-title{margin-bottom:60px;}
+.section-title h4 {
+	color: #06c6dd;
+	font-weight: 600;
+	position: relative;
+	margin-bottom:10px;
+	font-size: 20px;
+}
+.section-title h1 {
+	color: #252d35;
+	font-size: 46px;
+	font-weight: 500;
+	line-height: 55px;
+	margin-top: 0;
+	position: relative;
+	text-transform: capitalize;
+	margin-bottom: 25px;
+	width: 70%;
+	margin: auto;
+	margin-bottom: 25px;
+}
+@media only screen and (max-width:768px) { 
+.section-title  h1  {width: 90%;}
+}
+@media only screen and (max-width:480px) { 
+.section-title  h1  {font-size:24px;line-height: 32px;}
+}
+h1.section-title-white{color:#fff;}
+h4.section-title-white{color:#fff;}
+.section-title p {
+	padding: 0 10px;
+	width: 80%;
+	margin: auto;
+	letter-spacing: 1px;
+}
+p.section-title-white{color:#fff;}
+@media only screen and (max-width:768px) { 
+.section-title  p{
+padding: 0 10px;
+width: 90%;
+margin: auto;	
+}
+}
+/*END SECTION TITLE DESIGN*/
+/*START SCROLL TO TOP*/
+.topcontrol {
+background: #fff none repeat scroll 0 0;
+border-radius: 30px;
+bottom: 5px;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.08);
+color: #06c6dd;
+cursor: pointer;
+font-size: 18px;
+height: 50px;
+line-height: 50px;
+opacity: 1;
+position: fixed;
+right: 5px;
+text-align: center;
+transition: all 0.2s ease 0s;
+width: 50px;
+}
+.topcontrol:hover {
+    background: #06c6dd;
+    color: #fff;
+}
+/*END SCROLL TO TOP*/
+/*
+* ----------------------------------------------------------------------------------------
+* 01.END GENERAL STYLE
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 02.START BOOTSTRAP NAVIGATION OVERRIDES
+* ----------------------------------------------------------------------------------------
+*/
+.navbar {
+    padding: 25px 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+}
+.bg-faded {
+background-color: #012362;
+transition: all 0.5s ease 0s;
+}
+@media only screen and (max-width:768px) { 
+.bg-faded {background:#fff;}
+}
+.navbar-brand img {
+  width: 250px;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: #eee;
+	font-family: 'montserrat', sans-serif;
+	font-size: 15px;
+	padding: 0 15px;
+    font-weight: bold;
+
+}
+@media only screen and (max-width:768px) { 
+.navbar-light .navbar-nav .nav-link {color: #252d35;}
+}
+@media only screen and (max-width:480px) { 
+.navbar-light .navbar-nav .nav-link {padding: 8px 0px;}
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #06c6dd !important;
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.open,
+.navbar-light .navbar-nav .open > .nav-link {
+  color: #fff001  !important;
+}
+.navbar-light .navbar-toggler {
+  border-color: #fff;
+  border-radius: 0px;
+}
+.navbar-light .navbar-toggler {
+  float: right;
+  margin: 14px;
+  cursor: pointer;
+    background-color: #06c6dd;
+  border-color: #06c6dd;
+  border-radius: 0;
+}
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 32 32\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(0, 0, 0, 0.5)\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 8h24M4 16h24M4 24h24\'/%3E%3C/svg%3E");
+}
+.navbar-light .navbar-toggler i {
+  color: #111!important;
+}
+.site-navigation {
+    border-radius: 0px;
+}
+@media only screen and (max-width:480px) { 
+.collapse.show {
+  display: block;
+  padding: 0!important;
+}
+}
+.navbar-fixed {
+    z-index: 99999;
+    position: fixed;
+    width: 100%;
+	padding:20px 0;
+    top: 0;
+    -webkit-animation: fadeInDown 800ms;
+    animation: fadeInDown 800ms;
+    -webkit-backface-visibility: hidden;
+    border-radius: 0px;
+	 box-shadow:0 10px 40px rgba(0, 0, 0, 0.05);
+}
+@media only screen and (max-width:768px) { 
+.navbar-fixed {background:#fff;}
+.navbar-fixed.navbar-light .navbar-nav .nav-link{color:#06c6dd;}
+}
+.navbar-fixed.navbar-light .navbar-nav .nav-link{color:white;}
+
+@media only screen and (max-width:768px) { 
+.navbar-fixed.navbar-light .navbar-nav .nav-link{color:#06c6dd;}
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 02.END BOOTSTRAP NAVIGATION OVERRIDES
+* ----------------------------------------------------------------------------------------
+*/
+
+
+
+/*
+* ----------------------------------------------------------------------------------------
+* 03.START HOME DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.home_bg {
+    height: 700px;
+    position: RELATIVE;
+}
+.home_bg:before {
+    background: rgba(0, 0, 0, 0.5);
+    content: "";
+    height: 100%;
+    filter: alpha(opacity=80);
+
+    width: 100%;
+    position: absolute;
+}
+.hero-text {padding-top: 250px;}
+@media only screen and (max-width:360px) { 
+.hero-text  {padding-top:200px;}
+}
+.hero-text h1 {
+color: #fff;
+font-size: 65px;
+font-weight: 800;
+letter-spacing: 0;
+margin-bottom: 0;
+text-transform: uppercase;
+}
+@media only screen and (max-width:768px) { 
+.hero-text h1 {font-size: 40px;}
+}
+.hero-text h1 span{color:#06c6dd;}
+.hero-text p {
+	color: #fff;
+	word-spacing: 2px;
+	margin-top: 10px;
+	margin: 10px auto 30px;
+	width: 70%;
+}
+@media only screen and (max-width:480px) { 
+.hero-text p {width: 90%;}
+}
+.home_btn a{
+margin-bottom: 20px;
+margin-right: 20px;
+}
+.learn_btn {
+background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+border: 2px solid #fff;
+border-radius: 5000px;
+color: #eee;
+display: inline-block;
+font-size: 16px;
+overflow: hidden;
+padding: 10px 45px;
+text-transform: capitalize;
+transition: all 0.3s ease 0s;
+}
+@media only screen and (max-width:360px) { 
+.learn_btn {padding: 10px 40px;}
+}
+.learn_btn:hover{
+background:#fff;
+color:#252d35;
+border: 2px solid #fff;
+}
+
+.get_btn {
+background: #06c6dd;
+border: 2px solid #06c6dd;
+border-radius: 5000px;
+color: #fff;
+display: inline-block;
+font-size: 16px;
+overflow: hidden;
+padding:10px 45px;
+text-transform: capitalize;
+transition: all 0.3s ease 0s;
+}
+.bg-video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+@media only screen and (max-width:360px) {
+.get_btn {padding: 10px 40px;}
+}
+.get_btn:hover, .get_btn:focus{
+background:#fff;
+color:#252d35;
+border: 2px solid #fff;
+}
+
+/*START OTHER HOME PAGE CSS*/
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+.home_video{height: 700px;position:relative;}
+.home_video:before {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4) none repeat scroll 0 0;
+  content: "";
+  left: 0;
+  top: 0;
+}
+.html-video {
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.slider-caption {
+left: 0;
+position: absolute;
+text-align: center;
+top: 35%;
+transform: translate(0%, -50%);
+width: 100%;
+z-index: 15;
+}
+video { min-width: 100% }
+@media only screen and (max-width:768px) { 
+video { min-width: 100%;height:100%; }
+}
+/*END OTHER HOME PAGE CSS*/
+/*
+* ----------------------------------------------------------------------------------------
+* 03.END HOME DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 04.START ABOUT DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.about-content{}
+@media only screen and (max-width:480px) { 
+.about-content{
+    padding-bottom:30px;
+}
+}
+.single-about {	
+padding:60px 50px;
+transition:0.3s;
+}
+.single-about:hover{background:#06c6dd;	}
+.single-about-bs {
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+}
+@media only screen and (max-width:480px) { 
+.single-about{margin-bottom:30px;}
+}
+
+.about_icon {
+	color: #252d35;
+	font-size: 40px;
+	margin-bottom:30px;
+	transition:0.3s;
+}
+.single-about:hover .about_icon{color:#fff;}
+.single-about h3 {
+font-size: 20px;
+margin:20px 0 15px;
+text-transform: capitalize;
+font-weight: 500;
+transition:0.3s;
+}
+.single-about:hover h3{color:#fff;}
+.single-about p {transition:0.3s;}
+.single-about:hover p{color:#fff;}
+/*
+* ----------------------------------------------------------------------------------------
+* 04.END ABOUT DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 05.START FEATURE DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.feature-content{padding-bottom:50px;}
+.single_feature {
+	margin-bottom: 30px;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+	padding: 30px 30px;
+	transition: 0.3s;
+}
+.single_feature_mt {
+	margin-top: 70px;
+}
+@media only screen and (max-width:480px) { 
+.single_feature_mt {margin-top: 0px;}
+}
+.single_feature_mtnone {
+	margin-top: -70px;
+}
+@media only screen and (max-width:480px) { 
+.single_feature_mtnone {margin-top:0px;}
+}
+.single_feature_bg{
+background:#06c6dd;
+}
+.single_feature_bg span{color:#fff !important;}
+.single_feature_bg h3{color:#fff;}
+.single_feature_bg p{color:#fff;}
+
+.single_feature:hover{background:#06c6dd;}
+.single_feature span {
+	margin-bottom: 20px;
+	font-size: 30px;
+	color: #252d35;
+	display:block;
+	transition: 0.3s;
+}
+.single_feature:hover span{color:#fff;}
+.single_feature h3 {
+	font-weight: 500;
+	font-size: 18px;
+	margin-bottom: 15px;
+	transition: 0.3s;
+	text-transform: capitalize;
+}
+.single_feature:hover h3{color:#fff;}
+.single_feature p{overflow:hidden;transition: 0.3s;}
+.single_feature:hover p{color:#fff;}
+/*
+* ----------------------------------------------------------------------------------------
+* 05.END FEATURE DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 06.START COUNT DOWN DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.counter_feature {
+padding:120px 0;
+}
+@media only screen and (max-width:768px) { 
+.counter_feature {
+padding-bottom:90px;
+}
+}
+.single-project-complete {}
+@media only screen and (max-width:768px) { 
+.single-project-complete {margin-bottom:30px;}
+}
+.single-project-complete span {
+	font-size: 46px;
+	font-weight: 600;
+	color: #252d35;
+	margin-bottom: 25px;
+	display: block;
+}
+.single-project-complete h2 {
+	font-size: 46px;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+.single-project-complete h3 {
+	text-transform: capitalize;
+	font-size: 16px;
+	margin-bottom: 0;
+	margin-top: 10px;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 06.END COUNT DOWN DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 07.START SERVICE DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.our_service{background:#f6f6f6;}
+.service {
+	padding: 60px 40px;
+	transition: all 0.2s ease 0s;
+	border-radius: 0px;
+	background:#fff;
+	border: 1px solid #eee;
+	margin:0px 15px;
+}
+.service-top{
+margin-top:60px;
+background:#06c6dd;
+}
+@media only screen and (max-width:480px) { 
+.service-top{margin-top:0px;}
+}
+.service-top .icon{color:#fff;}
+.service-top h4{color:#fff;}
+.service-top p{color:#fff;}
+.service:hover{
+background:#06c6dd;
+border-radius: 5px;
+box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+}
+.icon {
+	color: #06c6dd;
+	display: inline-block;
+	font-size: 40px;
+	margin-bottom: 25px;
+	text-align: center;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+.service:hover .icon{color:#fff;}
+.service h4 {
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-size: 16px;
+	font-weight: 600;
+}
+.service:hover h4{color:#fff;}
+.service p {}
+.service:hover p{color:#fff;}
+.service a {
+	color: #252d35;
+	display: block;
+	margin-top: 25px;
+	font-weight: 600;
+	text-transform: capitalize;
+	font-size: 16px;
+}
+.service:hover a{color:#06c6dd;}
+/*
+* ----------------------------------------------------------------------------------------
+* 07.END SERVICE DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 08.START PORTFOLIO DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.our_portfolio{padding-bottom:50px;}
+.mix{
+	display: none;
+}
+.portfolio_filter ul {
+	list-style: none;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+	padding: 10px;
+	border-radius: 100px;
+	width: 60%;
+	margin: auto;
+	margin-bottom: 60px;
+	border: 1px solid #eee;
+}
+@media only screen and (max-width:768px) { 
+.portfolio_filter ul{width: 80%;}
+}
+.portfolio_filter ul li {
+	font-weight: 400;
+	text-transform: capitalize;
+	display: inline-block;
+	cursor: pointer;
+	padding: 8px 30px;
+	font-size: 16px;
+	color: #252d35;
+	transition: .5s;
+	margin: 0 3px 0px;
+	border-radius: 30px;
+}
+.portfolio_filter .active {
+	color: #fff;
+	background: #06c6dd;
+}
+.box{
+    overflow: hidden;
+    position: relative;
+	margin-bottom:30px;
+	height: 300px;
+}
+.box:before{
+    content: '';
+    background-color: rgba(255,255,255,0.8);
+    opacity: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 1;
+    transition: all 0.3s ease 0.1s;
+}
+.box:hover:before{
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    top: 15px;
+    opacity: 1;
+}
+.box img{
+    width: 100%;
+    height: auto;
+    transition: all 0.3s ease 0s;
+}
+.box:hover img{ transform: scale(1.5); }
+.box .box-content{
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    transform:translateX(-50%) translateY(-50%) scale(1);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 2;
+    transition:all 0.3s ease 0.5s;
+}
+.box .content{
+    opacity: 0;
+    transform:translateX(-50%) translateY(-50%);
+    position: absolute;
+    left:50%;
+    top:50%;
+    z-index: 2;
+    transition:all 0.3s ease 0s;
+}
+.box:hover .content{ opacity: 1; }
+.box .title {
+	color: #06c6dd;
+	font-size: 20px;
+	font-weight: 700;
+	text-transform: uppercase;
+	transform: translateY(-500px);
+	opacity: 0;
+	transition: all 0.8s ease 0.3s;
+}
+.box .post{
+    color: #252d35;
+    font-size:15px;
+    text-transform: capitalize;
+    display: inline-block;
+    margin-bottom: 10px;
+    opacity: 0;
+    transform:translateY(-500px);
+    transition:all 0.8s ease 0.15s;
+}
+.box:hover .title,
+.box:hover .post{
+    opacity: 1;
+    transform:translateY(0);
+}
+.box .work_icon{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.box .work_icon li{
+    margin:0 4px;
+    opacity: 0;
+    display: inline-block;
+    transform: translateY(-200px);
+    transition: all 0.8s ease 0s;
+}
+.box .work_icon li:nth-child(2){ transition-delay: 0.1s; }
+.box:hover .work_icon li{
+    opacity: 1;
+    transform: translateY(0);
+}
+.box .work_icon li a{
+    color: #fff;
+    background-color: #06c6dd;
+    font-size: 18px;
+    line-height: 43px;
+    height: 45px;
+    width: 45px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    display: block;
+    transition: all 0.3s ease 0s;
+}
+.box .work_icon li a:hover{
+    color: #06c6dd;
+	border: 2px solid #06c6dd;
+    background-color: #fff;
+}
+@keyframes bounce-left{
+    25%,50%,75%,100%{ transform:translateX(0); }
+    40%{ transform:translateX(30px); }
+    70%{ transform:translateX(15px); }
+    90%{ transform:translateX(5px); }
+}
+@media only screen and (max-width:990px){
+    .box{ margin-bottom: 30px; }
+}
+@media only screen and (max-width:479px){
+    .box .title{ font-size: 18px; }
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 08.END PORTFOLIO DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 09.START TEAM DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.Our_team{background:#f6f6f6;}
+.single_team {
+	padding: 20px;
+	transition: all 0.4s ease 0s;
+	background: #fff;
+	border-radius: 5px;
+	margin: 0px 15px;
+}
+.single_team h4 {
+	text-transform: capitalize;
+	font-weight: 400;
+	font-size: 22px;
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom:5px;
+}
+.single_team p {
+	font-weight: 300;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.team_social {margin-top:10px;}
+.team_social ul {list-style: outside none none;
+text-align: center; }
+.team_social ul li { display: inline-block; }
+.team_social ul li a i{
+border-radius: 30px;
+color: #fff;
+display: block;
+font-size: 16px;
+height: 40px;
+line-height: 40px;
+margin: 2px;
+text-align: center;
+transition: all 0.2s ease 0s;
+width: 40px;
+}
+@media only screen and (max-width:768px) { 
+    .team_social ul li a i{ font-size: 12px }
+}
+@media only screen and (max-width:360px) { 
+    .team_social ul li a i{ font-size: 14px }
+}
+.t_facebook {
+    background: #5D82D1;
+	box-shadow: 0 0 0 0px #5D82D1;
+    border: 1px solid #5D82D1;
+}
+.t_twitter {
+    background: #40BFF5;
+    box-shadow: 0 0 0 0px #40BFF5;
+    border: 1px solid #40BFF5;
+}
+.t_gplus {
+    background: #EB5E4C;
+    box-shadow: 0 0 0 0px #EB5E4C;
+    border: 1px solid #EB5E4C;
+}
+.t_linkedin {
+    background: #238CC8;
+    box-shadow: 0 0 0 0px #238CC8;
+    border: 1px solid #238CC8;
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 09.END TEAM DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 10.START PRICING DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+@media only screen and (max-width:768px) { 
+.our_pricing{padding-bottom:50px;}
+}
+.pricingTable{
+background: #fff none repeat scroll 0 0;
+color: #252d35;
+box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+margin-top: 30px;
+padding: 50px 15px;
+perspective: 700px;
+position: relative;
+text-align: center;
+transition: all 0.3s ease-in-out 0s;
+z-index: 1;
+}
+@media only screen and (max-width:480px){
+.pricingTable{ margin-bottom:60px; }
+}
+.pricingTable:hover{ color: #fff; }
+.pricingTable:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #06c6dd;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    z-index: -1;
+    transform: rotateY(70deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+.pricingTable:hover:after{
+    opacity: 1;
+    transform: rotateY(0deg);
+}
+.pricingTable .icon{
+    width: 69px;
+    height: 69px;
+    line-height: 69px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    font-size: 25px;
+    color: #06c6dd;
+    position: absolute;
+    top: -34px;
+    left: 0;
+    right: 0;
+}
+.pricingTable .pricingTable-header{
+    margin-bottom: 30px;
+}
+.pricingTable .title{
+    display: block;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+	transition: all 0.3s ease-in-out 0s;
+}
+.pricingTable:hover .title{color:#fff;}
+.pricingTable .price-value{
+border-bottom: 5px solid #06c6dd;
+display: inline-block;
+font-size: 30px;
+font-weight: 700;
+transition: all 0.3s ease-in-out 0s;
+line-height: 32px;
+}
+.pricingTable:hover .price-value{
+    border-bottom-color: #fff;
+}
+.pricingTable .pricing-content{
+    list-style: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+.pricing-content-border{}
+.pricing-content-border > li {
+  border: 1px solid #eee;
+  margin-bottom: 10px;
+}
+.pricingTable .pricing-content li{
+    line-height: 40px;
+}
+@media only screen and (max-width: 990px){
+    .pricingTable{ margin-bottom: 30px; }
+}
+@media only screen and (max-width: 767px){
+    .pricingTable{ margin-bottom: 30px; }
+}
+
+.btn-price-bg {
+	background: #06c6dd none repeat scroll 0 0;
+	border-radius: 30px;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+	outline: medium none;
+	padding: 12px 30px;
+	text-transform: uppercase;
+	transition: all 0.2s ease 0s;
+}
+.pricingTable:hover .btn-price-bg{
+background: #fff none repeat scroll 0 0;
+color: #06c6dd;
+}
+.btn-price-bg:hover,
+.btn-price-bg:focus {
+    background: #fff;
+    color: #06c6dd;
+}
+/*
+ * ----------------------------------------------------------------------------------------
+ * 10.END PRICING DESIGN
+ * ----------------------------------------------------------------------------------------
+ */
+ 
+/*
+ * ----------------------------------------------------------------------------------------
+ * 11.START VIDEO DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+.our_video {
+position: relative;
+}
+.our_video:before {
+    background:#06c6dd;
+    bottom: 0;
+    content: "";
+    height: 450px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.video_tour {
+	position: relative;
+	padding: 150px 0;
+	border: 15px solid #fff;
+	border-radius: 5px;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+}
+.video_tour:before {
+    background:rgba(0,0,0,0.1);
+    bottom: 0;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+ .video-play  {
+	background: #fff;
+	border-radius: 500px;
+	color: #06c6dd;
+	display: inline-block;
+	font-size: 20px;
+	height: 90px;
+	line-height: 90px;
+	position:relative;
+	-webkit-transition:all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	width: 90px;
+	z-index:999;
+}
+.video-play:hover span {
+	color: #06c6dd;
+}
+.video-play:after, .video-play:before {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  z-index:-1;
+}
+.video-play:before, .video-play:after {
+	position: absolute;
+	top: 84%;
+	left: 83%;
+	margin-top: -90px;
+	margin-left: -90px;
+	background: #fff;
+	-webkit-animation: pulse 3s linear infinite;
+	animation: pulse 3s linear infinite;
+	opacity: 0;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
+.video-play:after {
+  -webkit-animation: pulse 3s linear 2.3s infinite;
+          animation: pulse 3s linear 2.3s infinite;
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    opacity: 1;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  }
+  100% {
+    -webkit-transform: scale(1.4);
+            transform: scale(1.4);
+    opacity: 0;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  }
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+    opacity: 1;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  }
+  100% {
+    -webkit-transform: scale(1.4);
+            transform: scale(1.4);
+    opacity: 0;
+    -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  }
+}
+/*
+ * ----------------------------------------------------------------------------------------
+ * 11.END VIDEO DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 12.START TESTIMONIAL DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+.testimonial-demo{ background: #f6f6f6; }
+.testimonial{
+    margin: 0 20px 0px;
+}
+.testimonial .testimonial-content {
+	padding: 35px 25px 35px 50px;
+	margin-bottom: 35px;
+	background: #fff;
+	border: 1px solid #eee;
+	position: relative;
+	border-radius: 10px;
+}
+.testimonial .testimonial-content:after{
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: #fff;
+    position: absolute;
+    bottom: -10px;
+    left: 40px;
+    transform: rotate(45deg);
+}
+.testimonial .description{
+
+}
+.testimonial img {
+	width: 100px;
+	border-radius: 100px;
+	margin-bottom: 15px;
+}
+.testimonial .title {
+	display: block;
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: capitalize;
+	margin: 0 0 5px 0;
+}
+.testimonial .post{
+    display: block;
+    font-size: 14px;
+    color: #06c6dd;
+}
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 12.END TESTIMONIAL DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 13.START PARTNER DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+.single_logo {padding: 50px;}
+.single_logo_bm{
+border-bottom:1px solid #eee;
+}
+.single_logo_all{
+border-bottom:1px solid #eee;	
+border-left:1px solid #eee;	
+border-right:1px solid #eee;	
+}
+.single_logo_lr{
+border-left:1px solid #eee;	
+border-right:1px solid #eee;		
+}
+.single_logo a img {
+	width: 150px;
+	opacity: 0.8;
+	transition: 0.2s;
+}
+.single_logo a img:hover{opacity: 1;}
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 13.END PARTNER DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+
+/*
+ * ----------------------------------------------------------------------------------------
+ * 14.START BLOG DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+.blog-area{background:#f6f6f6;}
+@media only screen and (max-width: 480px){
+.blog-area{ padding-bottom:50px; }
+}
+.single_blog {
+	background: #fff;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+}
+@media only screen and (max-width:480px) { 
+.single_blog {margin-bottom:30px;}
+}
+.single_blog img {
+	height: 250px;
+	width: 100%;
+}
+.date {
+	color: #06c6dd;
+	font-weight: 600;
+	font-size: 14px;
+	margin-top: 20px;
+}
+.single_blog h2 {
+	font-weight: 600;
+	font-size: 20px;
+}
+.single_blog span {
+	margin-right: 20px;
+	margin-bottom: 5px;
+	display: inline-block;
+	font-weight: 400;
+}
+.author{}
+.comment i{color: #06c6dd;}
+.single_blog p{}
+
+.single_blog a {
+	background: #06c6dd none repeat scroll 0 0;
+	border-radius: 30px;
+	color: #fff;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+	outline: medium none;
+	padding: 10px 30px;
+	text-transform: uppercase;
+	transition: all 0.2s ease 0s;
+	margin-top: 15px;
+}
+.single_blog a:hover,
+.single_blog a:focus {
+    background: #252d35;
+    color: #fff;
+}
+/*
+ * ----------------------------------------------------------------------------------------
+ * 14.END BLOG DESIGN
+ * ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 15.START CONTACT ADDRESS DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.contact_img{}
+.contact_img img{margin-top:60px;}
+@media only screen and (max-width:768px) { 
+.contact_img img{margin-top:0px;}
+}
+.contact {
+	box-shadow:0 10px 40px rgba(0, 0, 0, 0.05);
+	padding: 60px 60px;
+}
+@media only screen and (max-width:768px) { 
+    .contact {margin-top:60px }
+}
+.contact h3 {
+	font-weight: 600;
+	margin-bottom: 30px;
+	border-bottom: 1px solid #eee;
+	padding-bottom: 8px;
+	font-size: 20px;
+}
+.contact input {
+	background: none repeat scroll 0 0;
+	border-bottom: 1px solid #eee;
+	border-radius: 0px;
+	box-shadow: none;
+	color: #252d35;
+	font-size: 16px;
+	font-weight: 400;
+	height: 50px;
+	border-right: 0px;
+	border-top: 0px;
+	border-left: 0px;
+}
+.contact textarea {
+background:none repeat scroll 0 0;
+border-bottom: 1px solid #eee;
+border-radius: 0px;
+box-shadow: none;
+color: #252d35;
+padding: 10px;
+font-size:16px;
+border-right: 0px;
+border-top: 0px;
+border-left: 0px;
+font-weight: 400;
+}
+.contact input:focus {
+border-bottom: 1px solid #06c6dd ;
+    box-shadow: none;
+    outline: 0 none;
+}
+.contact textarea:focus {
+border-bottom: 1px solid #06c6dd ;
+    box-shadow: none;
+    outline: 0 none;
+}
+.btn-contact-bg {
+	background: #06c6dd !important;
+	border-radius: 30px !important;
+	color: #fff !important;
+	display: block;
+	font-size: 13px !important;
+	font-weight: 600 !important;
+	letter-spacing: 0.5px;
+	outline: medium none;
+	padding: 15px 27px;
+	text-transform: uppercase;
+	transition: all 0.2s ease 0s;
+	font-family: montserrat,sans-serif;
+	cursor: pointer;
+}
+.btn-contact-bg:hover,
+.btn-contact-bg:focus {
+    background: #252d35!important;
+    color: #fff;
+}
+.map{}
+.map iframe{width:100%;}
+/*
+* ----------------------------------------------------------------------------------------
+* 15.END CONTACT ADDRESS DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+
+/*
+* ----------------------------------------------------------------------------------------
+* 16.START FOOTER DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+.footer {padding-bottom:30px;}
+.single_address {}
+@media only screen and (max-width:768px) { 
+.single_address {margin-bottom: 30px;}
+}
+.single_address h4 {
+	font-weight: 700;
+	font-size: 18px;
+	margin-bottom: 15px;
+	transition: 0.3s;
+	text-transform: uppercase;
+    color: white;
+}
+.single_address p{
+    color: yellow;
+	transition:0.3s;
+}
+
+.footer-border {
+	border-top: 1px solid #eee;
+	padding-top: 30px;
+	margin-top: 60px;
+	margin-bottom: 0px;
+}
+.social_profile {}
+.single_footer ul{
+list-style: outside none none;
+margin: 0;
+padding: 0;
+text-align: right;
+}
+@media only screen and (max-width:768px) { 
+.single_footer ul{text-align: left;}
+}
+.single_footer ul li{
+display: inline-block;
+}
+
+.single_footer ul li a {
+	float: left;
+	margin: 0;
+	text-align: center;
+	border: 1px solid #eee;
+	text-transform: uppercase;
+	transition: all 0.3s ease 0s;
+	margin: 0px 10px;
+	font-size: 18px;
+	color: yellow;
+	border-radius: 30px;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+}
+@media only screen and (max-width:768px) { 
+.single_footer ul li a{margin-right:10px;}
+}
+@media only screen and (max-width:480px) { 
+.single_footer ul li a{
+	width:40px;
+	height:40px;
+	line-height:40px;
+}
+}
+.single_footer ul li a:hover{
+background:#0C;
+color:#fff;
+border: 1px solid #06c6dd;
+}
+/*END FOOTER SOCIAL DESIGN*/
+.copyright {
+	text-transform: capitalize;
+	margin-top: 15px;
+    color:#06c6dd;
+}
+@media only screen and (max-width:480px) { 
+.copyright {margin-bottom: 30px;}
+}
+/*
+* ----------------------------------------------------------------------------------------
+* 16.END FOOTER DESIGN
+* ----------------------------------------------------------------------------------------
+*/
+

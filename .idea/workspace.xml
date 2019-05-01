@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3872d8d9-9d17-4e0d-b345-5045e8e08285" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-983748792">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JavaScript-modules-diagram/E:/QuantumX/Company Profile/Company Site/valobasha" value="1" />
+          <entry key="css" value="5" />
+          <entry key="html" value="8" />
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="5" />
+          <entry key="HTML" value="8" />
+          <entry key="JavaScript" value="2" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="733" />
+          <entry key="html" value="1234" />
+          <entry key="js" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="733" />
+          <entry key="HTML" value="1234" />
+          <entry key="JavaScript" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fw_al_001</find>
+      <find>about</find>
+      <find>#ff3366</find>
+      <find>ff3366</find>
+      <find>nav-item</find>
+      <find>counter-</find>
+      <find>about-content</find>
+      <find>navbar</find>
+      <find>container</find>
+      <find>nav-link</find>
+      <find>nav</find>
+      <find>navbar-nav</find>
+      <find>home_video</find>
+      <find>single_address</find>
+      <find>spinner</find>
+      <find>serv</find>
+      <find>our_services</find>
+      <find>footer</find>
+      <find>fav</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index - Copy.html" />
+        <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/assets/js/typed.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="526" />
+    <option name="y" value="109" />
+    <option name="width" value="1292" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="valobasha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="valobasha" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="valobasha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="valobasha" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="valobasha" type="b2602c69:ProjectViewProjectNode" />
+              <item name="valobasha" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/QuantumX Portfolio" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\QuantumX\Company Profile\Company Site\valobasha\assets\js" />
+      <recent name="E:\QuantumX\Company Profile\Company Site\valobasha\assets\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\QuantumX\Company Profile\Company Site\valobasha\assets\img\bg" />
+      <recent name="E:\QuantumX\Company Profile\Company Site\valobasha\assets\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/valobasha/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3872d8d9-9d17-4e0d-b345-5045e8e08285" name="Default Changelist" comment="" />
+      <created>1555684830716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555684830716</updated>
+      <workItem from="1555684832548" duration="20196000" />
+      <workItem from="1555868357787" duration="5474000" />
+      <workItem from="1556379608044" duration="4030000" />
+      <workItem from="1556422581812" duration="1371000" />
+      <workItem from="1556438264104" duration="47248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78319000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2472178" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.11343805" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram/E:/QuantumX/Company Profile/Company Site/valobasha">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/assets/img/blog/1.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/partner/1.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/portfolio/1.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/blog/2.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/partner/2.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/portfolio/2.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/blog/3.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/partner/3.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/portfolio/3.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/partner/4.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/portfolio/4.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/partner/5.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/portfolio/5.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/partner/6.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/portfolio/6.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/owlcarousel/css/AjaxLoader.html</node>
+            <node x="" y="">$PROJECT_DIR$/assets/css/animate.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/bootstrap/js/bootstrap.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/contact.png</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/favicon.png</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/feature.png</node>
+            <node x="" y="">$PROJECT_DIR$/assets/fonts/font-awesome.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/form-contact.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/owlcarousel/css/grabbing.html</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/testimonial/img-1.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/testimonial/img-2.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/testimonial/img-3.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/testimonial/img-4.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/index_video.html</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/jquery-1.12.4.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/jquery.inview.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/jquery.magnific-popup.min.js#jquery#228;</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/jquery.mixitup.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/jquery.nav.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/jquery.stellar.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/logo.png</node>
+            <node x="" y="">$PROJECT_DIR$/assets/css/magnific-popup.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/modernizr-2.8.3.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/owlcarousel/css/owl.carousel.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/owlcarousel/js/owl.carousel.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/owlcarousel/css/owl.theme.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/ripples-min.js#jquery#243;</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/scripts.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/scrolltopcontrol.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/smooth-scroll.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/css/style.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/team/team-1.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/team/team-2.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/team/team-3.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/img/team/team-4.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/assets/fonts/themify-icons.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/css/venobox.css</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/venobox.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/assets/js/wow.min.js</node>
+            <node x="" y="">//fonts.googleapis.com</node>
+            <node x="" y="">//maps.googleapis.com</node>
+            <node x="" y="">//s.w.org</node>
+            <node x="" y="">https://certify.alexametrics.com/atrk.gif?account=f2p9s1Y1Mn20Io</node>
+            <node x="" y="">https://ekramit.net/comments/feed/</node>
+            <node x="" y="">https://ekramit.net/feed/</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.2</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.4.5</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.4.5</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.4.5</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-account.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-members.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-misc.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-old-default.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-profile.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-raty.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-responsive.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-scrollbar.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-styles.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-members.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-scrollbar.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js?ver=2.0.43</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend-cart.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.5.7</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.5.7</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.5.7</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.5.7</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.5.7</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.5.7</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4</node>
+            <node x="" y="">https://ekramit.net/wp-content/plugins/wp-stats-manager/css/style.css?ver=1.0.0</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox-child/style.css?ver=themebox</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/css/default.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/img/image-error-404.jpg</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/js/ajaxGetTemplate.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/js/theme.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/animate/animate.min.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/bootstrap-select/css/bootstrap-select.min.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/bootstrap-select/js/bootstrap-select.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/bootstrap/css/bootstrap.min.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/bootstrap/js/bootstrap.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/jquery.easing.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/jquery.sticky.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/magnific-popup/jquery.magnific-popup.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/magnific-popup/style-magnific-popup.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/modernizr.custom.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.carousel.min.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/owl-carousel2/assets/owl.theme.default.min.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/owl-carousel2/owl.carousel.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/superfish/js/superfish.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/assets/plugins/swiper/js/swiper.jquery.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/themes/themebox/style.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-content/uploads/2016/07/12.png</node>
+            <node x="" y="">https://ekramit.net/wp-content/uploads/2016/07/logo-themebox.png</node>
+            <node x="" y="">https://ekramit.net/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/imagesloaded.min.js?ver=3.2.0</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/jquery/jquery.js?ver=1.12.4</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/masonry.min.js?ver=3.3.2</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/underscore.min.js?ver=1.8.3</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/wp-embed.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-includes/js/wp-util.min.js?ver=5.1.1</node>
+            <node x="" y="">https://ekramit.net/wp-includes/wlwmanifest.xml</node>
+            <node x="" y="">https://ekramit.net/wp-json/</node>
+            <node x="" y="">https://ekramit.net/xmlrpc.php</node>
+            <node x="" y="">https://ekramit.net/xmlrpc.php?rsd</node>
+            <node x="" y="">https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900</node>
+            <node x="" y="">https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%22%7Cuni_sansheavy_caps%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;#038;subset=latin%2Clatin-ext</node>
+            <node x="" y="">https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,500i,700</node>
+            <node x="" y="">https://gmpg.org/xfn/11</node>
+            <node x="" y="">https://maps.googleapis.com/maps/api/js?key=AIzaSyDsZ-Acy5Qz-RGmlRLVqnaPq8_2G9c-riE&amp;#038;ver=5.1.1</node>
+            <node x="" y="">jquery</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.08870507701083856" x="1672.0" y="2729.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/venobox.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="260" column="50" lean-forward="true" selection-start-line="260" selection-start-column="50" selection-end-line="260" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/typed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6956">
+          <caret line="438" selection-start-line="438" selection-end-line="438" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index - Copy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="840" column="56" selection-start-line="840" selection-start-column="56" selection-end-line="840" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="465" column="30" lean-forward="true" selection-start-line="465" selection-start-column="30" selection-end-line="465" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#section#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#div#1;n#div#0;n#section#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#2;n#div#1;n#div#0;n#section#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
